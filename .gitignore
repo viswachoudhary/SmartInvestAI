@@ -1,0 +1,17 @@
+# Ignore IntelliJ/VSCode config
+.idea/
+.vscode/
+
+# Node.js
+node_modules/
+.env
+
+# Java
+target/
+*.class
+
+# React
+frontend-react/build/
+
+# System
+.DS_Store
